@@ -1,4 +1,5 @@
 crewai
 groq
 crewai[tools]
-langchain_community
+sentence-transformers
+langchain-community

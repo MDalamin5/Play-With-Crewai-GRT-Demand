@@ -1,2 +1,4 @@
 crewai
 groq
+crewai[tools]
+langchain_community
